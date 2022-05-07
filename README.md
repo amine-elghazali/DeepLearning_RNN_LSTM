@@ -1,3 +1,3 @@
 # Deep Learning RNN LSTM Model to predict disaster tweets using NLP - RNN - LSTM - TENSORFLOW - KERAS - ...
 ## Kaggle submission score :) : 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/amine-elghazali/DeepLearning_RNN_LSTM/blob/master/Kaggle_submission_result.PNG)
